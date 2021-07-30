@@ -1,0 +1,26 @@
+{
+    "user":[
+      {
+        "name": "hugues",
+        "address": "Kacyiru",
+        "email": "ntwari.hugues@gmail.com",
+        "contact": "781407229",
+        "id": 1
+      },
+      {
+        "name": "Jeezy",
+        "address": "Ku bivaze",
+        "email": "ntwari.hugues@gmail.com",
+        "contact": "781407229",
+        "id": 2
+      },
+      {
+        "name": "Manisha",
+        "address": "Kubizibiti",
+        "email": "ntwari.hugues@gmail.com",
+        "contact": "781407229",
+        "id": 3
+      }
+
+    ]
+}
